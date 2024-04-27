@@ -47,6 +47,7 @@ export const Badge = (props: Props) => {
       Powered by
       <a
         ref={liteBadge}
+        /*href={'https://wookeys.ai'}*/
         href={'https://wookeys.ai'}
         target="_blank"
         rel="noopener noreferrer"
